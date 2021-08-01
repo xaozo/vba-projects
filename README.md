@@ -24,7 +24,7 @@ Features:
 
 Note that depending on system settings, the program may not work perfectly on certain devices.
 
-## Regression Toolbox mini-project
+## Regression Toolbox
 This mini-project implements a user form that allows the user to create a custom linear regression model using a user-hypothesized form of the model.
 
 Features:
