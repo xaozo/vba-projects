@@ -34,7 +34,7 @@ Features:
 * Input validation
 
 ## Profitability Analysis
-This mini-project implements a user form that allows the user to simulate a profitability analysis based on net present value (NPV) of a given proposed capital project. It assumes a fixed set of input variables with fixed distribution types, but the distribution parameters can be customized.
+This mini-project implements a user form that allows the user to simulate a profitability analysis based on net present value (NPV) of a given proposed capital project. A Monte Carlo simulation is performed and the proportion of simulations yielding positive NPV is displayed. It assumes a fixed set of input variables with fixed distribution types, but the distribution parameters can be customized.
 
 Features:
 * Ability to input custom distribution parameters (eg. mean and standard deviation for a normally distributed input variable)
